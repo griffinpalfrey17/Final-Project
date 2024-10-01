@@ -1,1 +1,1 @@
-In this weeks assignment, we have created a file titled 'Models.ipynb' that analyses four different types of regression models: Linear Regression, Random Forest, XGBoost, and Stacking. Each provided us with unique insight, but we eventually decided upon XGBoost as the best possible model given the structure and needs of our data. 
+For our final presentation, we have uploaded all necessary files into this repository. Our recommendations to improve cross sales at XYZ Credit Union can be found at the end of our presentation. 
